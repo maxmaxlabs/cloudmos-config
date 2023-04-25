@@ -3,5 +3,10 @@
       "id":"rpc.testnet-02.aksh.pw",
       "api":"http://rpc.testnet-02.aksh.pw:1317",
       "rpc":"http://rpc.testnet-02.aksh.pw:26657"
+   },
+   {
+      "id":"rpc.testnet-02.aksh.pw2",
+      "api":"https://api.testnet-02.aksh.pw",
+      "rpc":"https://rpc.testnet-02.aksh.pw"
    }
 ]
