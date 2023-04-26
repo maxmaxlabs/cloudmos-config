@@ -1,7 +1,7 @@
 [
    {
       "id":"sandbox.ny.aksh.pw",
-      "api":"http://api.sandbox.ny.aksh.pw:1317",
-      "rpc":"http://rpc.sandbox.ny.aksh.pw:26657"
+      "api":"https://api.sandbox.ny.aksh.pw",
+      "rpc":"https://rpc.sandbox.ny.aksh.pw"
    }
 ]
