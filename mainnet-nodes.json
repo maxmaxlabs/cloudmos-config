@@ -5,11 +5,6 @@
     "rpc": "https://akash-rpc.global.ssl.fastly.net"
   },
   {
-    "id": "cloudmos.io",
-    "api": "https://akash-node.cloudmos.io/api",
-    "rpc": "https://akash-node.cloudmos.io/rpc"
-  },
-  {
     "id": "lavenderfive.com",
     "api": "https://akash-api.lavenderfive.com:443",
     "rpc": "https://akash-rpc.lavenderfive.com:443"
