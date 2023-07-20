@@ -15,11 +15,6 @@
     "rpc": "https://akash-rpc.polkachu.com:443"
   },
   {
-    "id": "c29r3.xyz",
-    "api": "https://akash.c29r3.xyz:443/api",
-    "rpc": "http://akash.c29r3.xyz:80/rpc"
-  },
-  {
     "id": "notional.ventures",
     "api": "https://api-akash-ia.cosmosia.notional.ventures",
     "rpc": "https://rpc-akash-ia.cosmosia.notional.ventures:443"
