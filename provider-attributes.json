@@ -26,7 +26,7 @@
   "status-page": {
     "key": "status-page",
     "type": "string",
-    "required": true,
+    "required": false,
     "description": "Link to a status page for the provider."
   },
   "location-region": {

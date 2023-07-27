@@ -6,7 +6,7 @@
 | email                       | string             | true     | Email associated with the provider.                                    |
 | organization                | string             | true     | Name of the organization that owns the provider.                       |
 | website                     | string             | false    | Link to the organization's website.                                    |
-| status-page                 | string             | true     | Link to a status page for the provider.                                |
+| status-page                 | string             | false    | Link to a status page for the provider.                                |
 | location-region             | option             | true     | Geo location region of the provider. Based on the United Nations geoscheme. [UN Geoscheme](https://en.wikipedia.org/wiki/United_Nations_geoscheme) |
 | country                     | string             | false    | Country ISO 3166 Alpha-2 code of the provider. [ISO 3166 Country Codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) |
 | city                        | string             | false    | City 3 letter code of the provider. [Harbor Codes](https://www.hh-express.com/en/support/three_code/harbor.html) |
