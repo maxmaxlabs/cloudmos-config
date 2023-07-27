@@ -349,7 +349,7 @@
     "key": "hosting-provider",
     "type": "string",
     "required": false,
-    "description": "Name of the datacenter, colo, pubic cloud etc where hosted."
+    "description": "Name of the datacenter, colo, public cloud, etc where hosted."
   },
   "hardware-cpu": {
     "key": "hardware-cpu",
@@ -363,7 +363,7 @@
       },
       {
         "key": "amd",
-        "description": "Amd"
+        "description": "AMD"
       },
       {
         "key": "arm",
