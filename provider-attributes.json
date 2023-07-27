@@ -149,23 +149,23 @@
       },
       {
         "key": "as-central",
-        "description": "Central Asia. Countries ()"
+        "description": "Central Asia. Countries (KZ, KG, TJ, TM, UZ)"
       },
       {
         "key": "as-east",
-        "description": "Eastern Asia. Countries ()"
+        "description": "Eastern Asia. Countries (CN, JP, KP, KR, MN, HK, MO, TW)"
       },
       {
         "key": "as-southeast",
-        "description": "South-eastern Asia. Countries ()"
+        "description": "South-eastern Asia. Countries (MM, LA, TH, VN, KH, MY, SG, ID, TL, PH)"
       },
       {
         "key": "as-south",
-        "description": "Southern Asia. Countries ()"
+        "description": "Southern Asia. Countries (IR, AF, PK, IN, BD, BT, NP, LK, MV)"
       },
       {
         "key": "as-west",
-        "description": "Western Asia. Countries ()"
+        "description": "Western Asia. Countries (TR, GE, AM, AZ, SY, LB, JO, IL, IQ, KW, SA, YE, OM, AE, QA, BH, CY, PS)"
       },
       {
         "key": "oc-aus",
@@ -177,15 +177,15 @@
       },
       {
         "key": "oc-mel",
-        "description": "Oceania Melanesia. Countries ()"
+        "description": "Oceania Melanesia. Countries (PG, NR, SB, VU, NC, FJ)"
       },
       {
         "key": "oc-mic",
-        "description": "Oceania Micronesia. Countries ()"
+        "description": "Oceania Micronesia. Countries (PW, MP, GU, FM, MH, KI)"
       },
       {
         "key": "oc-pol",
-        "description": "Oceania Polynesia. Countries ()"
+        "description": "Oceania Polynesia. Countries (TV, WF, TK, AS, TO, NU, CK, PF, PN)"
       }
     ]
   },
