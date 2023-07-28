@@ -551,15 +551,31 @@
     "values": [
       {
         "key": "ddr2",
-        "description": "ddr2"
+        "description": "DDR2"
       },
       {
         "key": "ddr3",
-        "description": "ddr3"
+        "description": "DDR3"
+      },
+      {
+        "key": "ddr3ecc",
+        "description": "DDR3ECC"
       },
       {
         "key": "ddr4",
-        "description": "ddr4"
+        "description": "DDR4"
+      },
+      {
+        "key": "ddr4ecc",
+        "description": "DDR4ECC"
+      },
+      {
+        "key": "ddr5",
+        "description": "DDR5"
+      },
+      {
+        "key": "ddr5ecc",
+        "description": "DDR5ECC"
       }
     ]
   },
