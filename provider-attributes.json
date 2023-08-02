@@ -604,10 +604,10 @@
     "description": "True if the provider offers persistent storage."
   },
   "feat-persistent-storage-type": {
-    "key": "feat-persistent-storage",
+    "key": "feat-persistent-storage-type",
     "type": "option",
     "required": false,
-    "description": "True if the provider offers persistent storage.",
+    "description": "Type of persistent storage offered.",
     "values": [
       {
         "key": "ssd",
